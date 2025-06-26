@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 Final-year Computer Science student  
+- 🎓 Graduate of the College of Computers and Information, Department of Computer Science   
 - 📱 Currently learning and building apps with **Swift**, **UIKit**, and **SwiftUI**  
 - 🔁 Love turning ideas into functional, clean apps  
 - 🔬 Passionate about UI/UX, problem solving, and building useful tools  
